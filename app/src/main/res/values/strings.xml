@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SpotifyBLE</string>
+    <string name="label_device_address">Device address:</string>
+    <string name="looking_for_device">Looking for compatible BLE device...</string>
+    <string name="label_state">State:</string>
+    <string name="disconnected">disconnected</string>
+    <string name="connected">connected</string>
+    <string name="ble_not_supported">BLE is not supported!</string>
+    <string name="bluetooth_not_supported">Bluetooth is not supported.</string>
+    <string name="label_data">Data:</string>
+    <string name="none">none</string>
+    <string name="write_data">Write data</string>
+</resources>
